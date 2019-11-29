@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+
+.container{
+  width:400px;
+
+}
+
+.left{
+  width:200px;
+  float:left;
+}
+.right{
+  width:200px;
+  float:right;
+}
